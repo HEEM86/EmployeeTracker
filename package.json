@@ -12,7 +12,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HEEM86/EmployeeTracker.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HEEM86/EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/HEEM86/EmployeeTracker#readme"
 }
